@@ -21,3 +21,4 @@ $alexandre = new Aluno ("Alexandre", 38, 9);
 echo $alexandre->nome;
 echo $alexandre->verNota();
 ?>
+
